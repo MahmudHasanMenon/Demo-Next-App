@@ -25,16 +25,16 @@ export default function RootLayout({
         <meta name="description" content="The University of Alberta is a Top 5 Canadian university located in Edmonton, Alberta, and home to 40,000 students in a wide variety of programs." />
 
 
-        <meta property="og:url" content="https://www.ualberta.ca/index.html" />
+        <meta property="og:url" content="https://ctribe-event-web-staging.vercel.app" />
         <meta property="og:type" content="website" />
-        <meta property="og:title" content=" University of Alberta" />
+        <meta property="og:title" content="University of Alberta" />
         <meta property="og:description" content="The University of Alberta is a Top 5 Canadian university located in Edmonton, Alberta, and home to 40,000 students in a wide variety of programs." />
         <meta property="og:image" content="https://firebasestorage.googleapis.com/v0/b/project-brain-f7594.appspot.com/o/ctribe-preview-image.png?alt=media&token=6483586d-04db-4fa1-be3e-0da8282493a2" />
 
 
         <meta name="twitter:card" content="summary_large_image" />
-        <meta property="twitter:domain" content="ualberta.ca" />
-        <meta property="twitter:url" content="https://www.ualberta.ca/index.html" />
+        <meta property="twitter:domain" content="ctribe-event-web-staging.vercel.app" />
+        <meta property="twitter:url" content="https://ctribe-event-web-staging.vercel.app" />
         <meta name="twitter:title" content="University of Alberta" />
         <meta name="twitter:description" content="The University of Alberta is a Top 5 Canadian university located in Edmonton, Alberta, and home to 40,000 students in a wide variety of programs." />
         <meta name="twitter:image" content="https://firebasestorage.googleapis.com/v0/b/project-brain-f7594.appspot.com/o/ctribe-preview-image.png?alt=media&token=6483586d-04db-4fa1-be3e-0da8282493a2" />
